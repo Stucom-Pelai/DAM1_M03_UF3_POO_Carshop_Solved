@@ -1,0 +1,6 @@
+1,BMW,serie3,45000,nuevo
+2,Audi,A4,40000,noNuevo
+3,Opel,Corsa,15000,nuevo
+4,Seat,Leon,40000,nuevo
+5,Citroen,Picasso,40000,nuevo
+6,VW,Gold,20000,noNuevo
